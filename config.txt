@@ -1,0 +1,2 @@
+[myvars]
+proxy_type = 0

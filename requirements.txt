@@ -1,0 +1,6 @@
+dearpygui==1.9.0
+PyQt5==5.15.9
+requests==2.28.2
+rich==13.5.2
+SocksiPy_branch==1.01
+TgCrypto==1.2.5
